@@ -19,6 +19,7 @@ We distinguish between the learning resources:
 [Windows Internals 7th Edition, Part 1](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189)  
 [Windows Internals 7th Edition, Part 2](https://www.amazon.com/Windows-Internals-Part-2-7th/dp/0135462401)  
 [Windows Security Internals - by James Forshaw](https://nostarch.com/windows-security-internals)
+[Memory Dump Analysis Anthology, Pattern-Oriented Software Diagnostics,... - by Dmitry Vostokov](https://www.patterndiagnostics.com/index.php/reference-materials)
 
 ### Courses
 [Azius](https://azius.com/)  
@@ -30,6 +31,7 @@ We distinguish between the learning resources:
 [Open Security Training 2](https://p.ost2.fyi/courses)  
 [Windows 11 Internals - by Pavel Yosifovich](https://www.pluralsight.com/paths/windows-11-internals)  
 [Mastering Windows Internals - by Grzegorz Tworek](https://gtworek.com/mastering-windows-internals)  
+[Windows Memory Dump Analysis, Windows Debugging, .NET Core Memory Dump Analysis,... - by Dmitry Vostokov](https://www.patterndiagnostics.com/training-courses)  
 
 ### Online Resources
 [Going Deep](https://walkingcat.github.io/ch9-index/?p=Shows_Going+Deep)  
