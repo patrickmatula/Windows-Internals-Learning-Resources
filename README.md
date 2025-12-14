@@ -18,7 +18,7 @@ We distinguish between the learning resources:
 ### Books
 [Windows Internals 7th Edition, Part 1](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189)  
 [Windows Internals 7th Edition, Part 2](https://www.amazon.com/Windows-Internals-Part-2-7th/dp/0135462401)  
-[Windows Security Internals - by James Forshaw](https://nostarch.com/windows-security-internals)
+[Windows Security Internals - by James Forshaw](https://nostarch.com/windows-security-internals)  
 [Memory Dump Analysis Anthology, Pattern-Oriented Software Diagnostics,... - by Dmitry Vostokov](https://www.patterndiagnostics.com/index.php/reference-materials)
 
 ### Courses
