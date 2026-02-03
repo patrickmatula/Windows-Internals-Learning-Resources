@@ -32,6 +32,7 @@ We distinguish between the learning resources:
 [Windows 11 Internals - by Pavel Yosifovich](https://www.pluralsight.com/paths/windows-11-internals)  
 [Mastering Windows Internals - by Grzegorz Tworek](https://gtworek.com/mastering-windows-internals)  
 [Windows Memory Dump Analysis, Windows Debugging, .NET Core Memory Dump Analysis,... - by Dmitry Vostokov](https://www.patterndiagnostics.com/training-courses)  
+[Windows Internals Master - trainsec.net by Pavel Yosifovich](https://trainsec.net/windows-internals-master/)  
 
 ### Online Resources
 [Going Deep](https://walkingcat.github.io/ch9-index/?p=Shows_Going+Deep)  
@@ -85,6 +86,6 @@ We distinguish between the learning resources:
 [DriverEntry](https://driverentry.com.br/)  
 
 ### Online Courses
-[Windows Kernel/System Programming, x64 Architecture and Programming, COM Programming,... - by Pavel Yosifovich](https://training.trainsec.net/windows-internals-and-programming)  
+[Windows Master Developer - trainsec.net by Pavel Yosifovich](https://trainsec.net/windows-master-developer/)  
 
 ### Online Resources
